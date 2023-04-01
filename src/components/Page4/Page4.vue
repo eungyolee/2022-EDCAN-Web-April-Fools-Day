@@ -58,21 +58,21 @@ const educanData = [
         "발효/성형 기초 강좌",
         "Pixel",
         [
-            new EducanStudyTag("UI/UX", "#fe654a" ),
-            new EducanStudyTag("기초이론", "#ffbc3f" ),
-            new EducanStudyTag("디자인", "#27cf21" ),
+            new EducanStudyTag("발효", "#fe654a" ),
+            new EducanStudyTag("재료", "#ffbc3f" ),
+            new EducanStudyTag("준비", "#27cf21" ),
         ],
-        "모바일 UI/UX 디자인에 대한 이론을 Figma와 Adobe XD를 이용하여 실습해보며 학습합니다.",  // 마저 하자
+        "사과 파이를 굽기 전 마지막 단계에 대해 학습합니다.",
     ),
     new EducanStudyData(
-        "서비스 클론 디자인 과정",
+        "최종 결과물 생산 과정",
         "Pixel",
         [
-            new EducanStudyTag("UI/UX", "#fe654a" ),
-            new EducanStudyTag("웹디자인", "#8d80e7" ),
-            new EducanStudyTag("클론 디자인", "#5fba88" ),
+            new EducanStudyTag("맛있는", "#fe654a" ),
+            new EducanStudyTag("사과 파이", "#8d80e7" ),
+            new EducanStudyTag("완성", "#5fba88" ),
         ],
-        "멜론, 토스, 유튜브와 같은 실제 서비스를 클론 디자인해보며 UI/UX에 대한 기본적인 개념을 수립합니다.",
+        "마지막으로 사과 파이를 구워보며 제빵에 대한 기본적인 개념을 수립합니다.",
     ),
 ]
 

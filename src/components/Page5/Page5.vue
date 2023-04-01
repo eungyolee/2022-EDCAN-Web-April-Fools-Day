@@ -3,7 +3,7 @@
 <div class="content">
     <!-- {{ $store.state.portfolioList }} -->
     <!-- <div v-for="(i, n) in portfolioList" :key="n">{{ i }}</div> -->
-    <h3>Portfolio</h3>
+    <h3>Apple Pi</h3>
     <div class="portfolio-list-wrap">
         <div class="portfolio-list">
             <PortfolioItem
