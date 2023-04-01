@@ -35,34 +35,34 @@ import {
 
 const educanData = [
     new EducanStudyData(
-        "Android 애플리케이션 개발",
+        "사과 농사법 개발",
         "Atelier",
         [
-            new EducanStudyTag("Android", "#0B7038"),
-            new EducanStudyTag("Kotlin", "#6F3C0B"),
-            new EducanStudyTag("Jetpack", "#073042"),
+            new EducanStudyTag("Apple", "#0B7038"),
+            new EducanStudyTag("Harvest", "#6F3C0B"),
+            new EducanStudyTag("Growth", "#073042"),
         ],
-        "모바일 콘텐츠 개발의 가장 핵심이 되는 Andorid 앱 개발을 공부합니다.",
+        "사과 파이 제빵의 가장 핵심이 되는 사과를 재배하기 위해 공부합니다.",
     ),
     new EducanStudyData(
-        "누워서 Vue.js 먹기",
+        "누워서 반죽 만들기",
         "Atelier",
         [
-            new EducanStudyTag("CAN WOP", "#74cbfa" ),
-            new EducanStudyTag("Vue.js", "#95df80" ),
-            new EducanStudyTag("기초", "#df0d23" ),
+            new EducanStudyTag("Dough", "#74cbfa" ),
+            new EducanStudyTag("Bread", "#95df80" ),
+            new EducanStudyTag("Baking", "#df0d23" ),
         ],
-        "모바일 콘텐츠 개발의 두 번째, 웹 분야를 공부하기 위해서 Vue.js 프레임워크를 공부합니다.",
+        "사과 파이 제빵의 두 번째, 반죽 분야를 공부하기 위해서 여러번 반죽을 만들어봅니다.",
     ),
     new EducanStudyData(
-        "UI/UX 기초 강좌",
+        "발효/성형 기초 강좌",
         "Pixel",
         [
             new EducanStudyTag("UI/UX", "#fe654a" ),
             new EducanStudyTag("기초이론", "#ffbc3f" ),
             new EducanStudyTag("디자인", "#27cf21" ),
         ],
-        "모바일 UI/UX 디자인에 대한 이론을 Figma와 Adobe XD를 이용하여 실습해보며 학습합니다.",
+        "모바일 UI/UX 디자인에 대한 이론을 Figma와 Adobe XD를 이용하여 실습해보며 학습합니다.",  // 마저 하자
     ),
     new EducanStudyData(
         "서비스 클론 디자인 과정",

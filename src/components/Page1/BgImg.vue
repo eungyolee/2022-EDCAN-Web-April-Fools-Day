@@ -3,7 +3,7 @@
     <div
         class="bg-img"
         v-if="isShow"
-        :style="{backgroundImage : `url('/img/main_page_bg/bg_${n}.jpg')`}"></div>
+        :style="{backgroundImage : `url('https://appplepi.com/resource/2022.png')`}"></div>
 </transition>
 </template>
 

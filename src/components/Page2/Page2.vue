@@ -2,21 +2,22 @@
 <div class="main-page-page page2">
     <div class="bg">
         <p class="bg-item" v-for="n in 20" :key="n">
-            프로덕트 디자이너  데이터 엔지니어  프로덕트 매니저  데이터베이스 엔지니어  시스템 엔지니어  UXUI 디자이너
-            클라우드 엔지니어  서비스 매니저  웹 디자이너  콘텐츠 마케터  프론트엔드 디벨로퍼  백엔드 디벨로퍼  엑셀레이터
-            웹 퍼블리셔    통신공학 기술자  모바일 앱 엔지니어  빅데이터 엔지니어  오퍼레이터 엔지니어  인공지능 엔지니어
-            콘텐츠 디자이너  머신러닝 엔지니어  모션그래픽 디자이너  포토그래퍼  비디오 아티스트  그래픽 디자이너
-            게임 디자이너  아트 디렉터  일러스트레이터  캐릭터 디자이너  VFX 아티스트  비주얼 디렉터  컬러리스트  임베디드
-            시스템 엔지니어  퀄리티 어슈어런스 엔지니어
+            App:ple Pi 애플파이 앱파 앱플파이 앱플 파이 애플 파이
+            앱흘파이 Apple Pi Apple Pie ApplePie 사과 파이
+            사과 맛 파이 토독토독 사과맛 파이 App:ple Pie
+            Ap:ple Pi Ap:ple Pie 아 귀찮다 애플 파이
+            App:ple Pi 애플파이 애플파이 애플파이
+            App:ple Pi App:ple Pie Apple Pi Apple Pie
+            맛있는 토독토독 사과맛 파이
         </p>
     </div>
     <div class="content">
         <h2>What is EDCAN?</h2>
         <div class="comment-wrap">
             <div class="comment">
-                우리는 모바일 앱이나, 웹 페이지를 만들지만,
+                우리는 사과나, 파이를 만들지만,
                 <br>
-                개발자나, 디자이너와 같은 <b>무언가로 정의</b>되지 않습니다.
+                농부나, 제빵사와 같은 <b>무언가로 정의</b>되지 않습니다.
             </div>
 
             <div class="comment">
@@ -26,9 +27,9 @@
             </div>
 
             <div class="comment">
-                우리는 <b>창작자</b>입니다.
+                우리는 <b>특별한 사과파이 창작자</b>입니다.
                 <br>
-                우리는 <b>EDCAN</b>입니다.
+                우리는 <b>App:ple Pi</b>입니다.
             </div>
         </div>
     </div>

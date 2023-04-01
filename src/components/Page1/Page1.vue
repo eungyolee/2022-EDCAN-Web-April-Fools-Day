@@ -4,7 +4,7 @@
         <div
             v-for="i in BG_IMG_COUNT" :key="i"
             :class="{'activate' : i == currentBgIndex}"
-            :style="{backgroundImage: `url('/img/main_page_bg/bg_${i - 1}.webp')`}"></div>
+            :style="{backgroundImage: `url('https://appplepi.com/resource/2022.png')`}"></div>
     </div>
 
     <div class="content">
@@ -24,8 +24,8 @@
 <script>
 // import BgImg from "./BgImg.vue"
 
-const _titleMsg = "We are Creators."
-const _subtitleMsg = "EDCAN"
+const _titleMsg = "We are Bakers."
+const _subtitleMsg = "App:ple Pi"
 
 let titleMsgLen = -5
 let subTitleMsgLen = 1
